@@ -1,4 +1,4 @@
-# Named Entiry Recognition
+# Named Entity Recognition
 
 ## AIM
 
